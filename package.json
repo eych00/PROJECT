@@ -1,19 +1,19 @@
 {
-  "name": "project",
+  "name": "project1",
   "version": "1.0.0",
   "description": "FINAL PROJECT",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "develop": "nodehg app.js"
+    "develop": "node app.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/eych00/PROJECT.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Harlan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eych00/PROJECT/issues"
